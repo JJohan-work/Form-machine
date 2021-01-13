@@ -4,7 +4,7 @@
 * * *
 
 ## About
-This is what the project is about or what lesson it is from
+This is for Epicodus Week 2 Lesson 41-42 practicing Javascript and html Forms
 * * *
 
 ## Technologies used
@@ -18,18 +18,11 @@ This is what the project is about or what lesson it is from
 * * *
 
 ## Setup instructions:  
-* Clone Repo and open index.html to use
-
-* * *
-## To Do:
-* Things that I can do later
-* To improve this project
-*
+* Currently no way to navigate between pages, manually select index.html, shout.html, form.html from url
 
 * * *
 ## Addition comments:
-* Created on x/x/21  
-* Currently in development and unfinished (*as of x/x/21*)
+* Created on 1/13/21  
 
 * * *
 ## Contact
